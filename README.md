@@ -1,2 +1,3 @@
-# CGAtividades
-Atividades da Cadeira de Introdução a computação gráfica
+# Atividades referentes a cadeira de Introdução à Computação Gráfica
+# Sumário
+
