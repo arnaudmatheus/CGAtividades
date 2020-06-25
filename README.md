@@ -5,8 +5,11 @@
 
   A primeira atividade teve como objetivo a familiarização dos alunos com os algoritimos de rasterização utilizados em computação gráfica segue abaixo os resultados obtidos e suas devidas explicações.
   ### Rasterização de Ponto
+  Para a rasterização dos pontos foi feito uma struct de nome pixel com para receber as coordenadas (x,y)  e um array para guardar os valores em RGBA, foi feito 
+  uma função PosicaoPix para calcular a posição do pixel de acordo com as cordenadas x e y e por fim a função PutPixel para fazer a renderização do pixel na 
+  determinada posição e cor. Abaixo seguem os valores usados para os pixels de origem e de fim da linha e do triângulo
   
-  Parametros usados nos pontos
+  
   ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/WhatsApp%20Image%202020-06-25%20at%2018.40.53.jpeg)
   
   
