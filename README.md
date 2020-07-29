@@ -61,9 +61,11 @@
  
  
 ### Parte 2
- A segunda pediu um movimento de translação na cena de modo a haver uma translação de (1,0,0), esse movimento foi resolvido na base das tentativas até descobrir qual dos valores da matriz era o responsável pelo deslocamento horizontal já que o único existente, visto que os deslocamentos em y e em z são zero.
-  ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q2%20code.png)
-  ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q2result.png)
+ A segunda pediu um movimento de translação na cena de modo a haver uma translação de (1,0,0), esse movimento foi resolvido na base das tentativas até descobrir 
+ qual dos valores da matriz era o responsável pelo deslocamento horizontal já que o único existente, visto que os deslocamentos em y e em z são zero.
+  
+ ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q2%20code.png)
+ ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q2result.png)
 ### Parte 3
 A terceira consistiu numa mudança de pespectiva da cena
 ### Parte 4
