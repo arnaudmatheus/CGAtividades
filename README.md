@@ -67,8 +67,17 @@
  ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q2%20code.png)
  ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q2result.png)
 ### Parte 3
-A terceira consistiu numa mudança de pespectiva da cena
+A terceira consistiu numa mudança de pespectiva da cena, para tanto foi preciso alterar a matriz projection em dois pontos específicos referentes que dependem do 
+parametro d que agora passou a valer 0.5.
+![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q3code.png)
+![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/at3result.png)
 ### Parte 4
-A quarta parte pede que mantendo a alteração de pespectiva da cena feita na parte 3 faça-se uma alteração na pespectiva da câmera
+A quarta parte pede que mantendo a alteração de pespectiva da cena feita na parte 3 faça-se uma alteração na pespectiva da câmera, nesse ponto foram feitas 
+alterações mais significativas no codigo e na matriz view, primeiro foram criados vetores com a posição da camera, o up e para a posição que a camera aponta.A par
+tir disso foram encontrados os vetores x,y,z da câmera e esses valores foram colocados de forma a fazer a matriz B transposta como especificado nos slides de aula 
+bem como foi feita a matriz T com a matrizview agora resultando da multiplicação de ambas matrizes.
+![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/at4code.png)
+![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/at4res.png) 
+
 ### Parte 5
 Na parte final foram pedidas alterações nas matrizes view,model e projection de forma a gerar uma cenda diferente das feitas anteriormente
