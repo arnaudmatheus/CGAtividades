@@ -76,6 +76,7 @@ A quarta parte pede que mantendo a alteração de pespectiva da cena feita na pa
 alterações mais significativas no codigo e na matriz view, primeiro foram criados vetores com a posição da camera, o up e para a posição que a camera aponta.A par
 tir disso foram encontrados os vetores x,y,z da câmera e esses valores foram colocados de forma a fazer a matriz B transposta como especificado nos slides de aula 
 bem como foi feita a matriz T com a matrizview agora resultando da multiplicação de ambas matrizes.
+
 ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/at4code.png)
 ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/at4res.png) 
 
