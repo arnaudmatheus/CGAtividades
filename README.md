@@ -43,5 +43,30 @@
 ## Atividade 2- Algoritimos de rasterização
 
 
-  A segunda atividade consiste em um teste para se checar se o OpenGL está devidamente instalado e para isso foi compilado e executado, com o vídeo da execução
-  estando dentro da pasta cujo titulo é essa atividade
+   A segunda atividade consiste em um teste para se checar se o OpenGL está devidamente instalado e para isso foi compilado e executado, com o vídeo da execução
+  estando dentro da pasta cujo titulo é essa atividade.
+  
+  
+## Atividade 3- Pipeline grafico
+
+  Pipeline grafico consiste na sequências de passos necessários para transformar uma descrição geométrica/matemática de uma cena 3D em uma representação 2D visual, sendo a imagem final obtida pela rasterização de primitivas projetadas na tela. Basicamente cada passo do pipeçine grafíco consiste em uma transformação geometrica de um espaço para outro sendo eles:
+  (Imagem do pipeline Grafico)
+  
+  Tendo isso em vista a terceira atividade consistiu em a partir de um codigo que representa um pipeline grafico já implementado e a partir dele obter cinco  
+  resultados diferentes.
+  
+### Parte 1
+ A primeira parte pediu uma alteração na matriz model para alterar a representação de escala do modelo  ou seja foi uma alteração no dimensionamento do objeto
+ de forma a faze-lo ter uma forma diferente da original, no caso como os fatores de escala dados foram 0.33 em x, 1.5 em y e 1 em z basta multiplicar os fatores de  escala pela matriz view de forma assim a ter a matriz view com os novos valores para o fator de escala desejado.
+ 
+ 
+### Parte 2
+ A segunda pediu um movimento de translação na cena de modo a haver uma translação de (1,0,0), esse movimento foi resolvido na base das tentativas até descobrir qual dos valores da matriz era o responsável pelo deslocamento horizontal já que o único existente, visto que os deslocamentos em y e em z são zero.
+  ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q2%20code.png)
+  ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q2result.png)
+### Parte 3
+A terceira consistiu numa mudança de pespectiva da cena
+### Parte 4
+A quarta parte pede que mantendo a alteração de pespectiva da cena feita na parte 3 faça-se uma alteração na pespectiva da câmera
+### Parte 5
+Na parte final foram pedidas alterações nas matrizes view,model e projection de forma a gerar uma cenda diferente das feitas anteriormente
