@@ -85,5 +85,6 @@ bem como foi feita a matriz T com a matrizview agora resultando da multiplicaç�
 
 ### Parte 5
 Na parte final foram pedidas alterações nas matrizes view,model e projection de forma a gerar uma cenas diferente das feitas anteriormente e o resultado foi o 
-seguinte
+seguinte.
+
 ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q5.png)
