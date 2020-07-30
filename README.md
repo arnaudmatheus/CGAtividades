@@ -57,8 +57,11 @@
   
 ### Parte 1
  A primeira parte pediu uma alteração na matriz model para alterar a representação de escala do modelo  ou seja foi uma alteração no dimensionamento do objeto
- de forma a faze-lo ter uma forma diferente da original, no caso como os fatores de escala dados foram 0.33 em x, 1.5 em y e 1 em z basta multiplicar os fatores de  escala pela matriz view de forma assim a ter a matriz view com os novos valores para o fator de escala desejado.
+ de forma a faze-lo ter uma forma diferente da original, no caso como os fatores de escala dados foram 0.33 em x, 1.5 em y e 1 em z basta multiplicar os fatores 
+ de  escala pela matriz view de forma assim a ter a matriz view com os novos valores para o fator de escala desejado.
  
+ ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q1code.png)
+ ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q1result.png)
  
 ### Parte 2
  A segunda pediu um movimento de translação na cena de modo a haver uma translação de (1,0,0), esse movimento foi resolvido na base das tentativas até descobrir 
