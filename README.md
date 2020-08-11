@@ -88,3 +88,11 @@ Na parte final foram pedidas alterações nas matrizes view,model e projection d
 seguinte.
 
 ![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/q5.png)
+
+## Atividade 4
+A atividade 4 consistiu em a partir de um codigo fornecido pelo professor implementar as reflexões: difusa e especular
+
+### Reflexão difusa
+Foi implementada criando os vetores L e V como vec3 seguindo sugestão dada na especificação do projeto e a partir disso foi criada 
+
+
