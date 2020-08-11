@@ -95,8 +95,16 @@ A atividade 4 consistiu em a partir de um codigo fornecido pelo professor implem
 ### Reflexão difusa
 Foi implementada criando os vetores L e N como vec3 seguindo sugestão dada na especificação do projeto e a partir disso foi criada intensity que faz a multiplicação dos vetores 
 L e N e foi feito o calculo do I gerando o resultado esperado  
+![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/difcode.png)
 
+![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/difusa.png)
 ### Reflexão especular
 Além dos vetores L e N implementados anteriormente foran implementados os vetores R e V, os valores theta e alpha que representam os cossenos que precisam ser implementados na 
 formula bem como a variavel pow_cos que representa a potenciação existente na formula, gerando o seguinte resultado.
+
+![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/especcode.png)
+
+![alt text](https://github.com/arnaudmatheus/CGAtividades/blob/master/imgs/especular.png)
+
+
 
